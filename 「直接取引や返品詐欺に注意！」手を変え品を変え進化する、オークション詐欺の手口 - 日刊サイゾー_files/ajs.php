@@ -1,0 +1,12 @@
+var MA_ec405b46 = '';
+MA_ec405b46 += "<"+"!-- MicroAd_NikkanCyzo_BTF_728x90 -->\n";
+MA_ec405b46 += "<"+"script type=\"text/javascript\">\n";
+MA_ec405b46 += "var ord = window.ord || Math.floor(Math.random() * 1e16);\n";
+MA_ec405b46 += "document.write(\'<"+"script type=\"text/javascript\" src=\"http://ad.doubleclick.net/N7638/adj/MicroAd_NikkanCyzo_BTF_728x90;sz=728x90;ord=\' + ord + \'?\"><"+"\\/script>\');\n";
+MA_ec405b46 += "<"+"/script>\n";
+MA_ec405b46 += "<"+"noscript>\n";
+MA_ec405b46 += "<"+"a href=\"http://vsc.send.microad.jp/delivery/ck.php?oaparams=2__bannerid=37230__snr=1__zoneid=11151__OXLCA=1__cb=ebf259f455__t=1365765243.0797__oadest=http%3A%2F%2Fad.doubleclick.net%2FN7638%2Fjump%2FMicroAd_NikkanCyzo_BTF_728x90%3Bsz%3D728x90%3Bord%3D1234%3F\" target=\"_blank\">\n";
+MA_ec405b46 += "<"+"img src=\"http://ad.doubleclick.net/N7638/ad/MicroAd_NikkanCyzo_BTF_728x90;sz=728x90;ord=1234?\" width=\"728\" height=\"90\" />\n";
+MA_ec405b46 += "<"+"/a>\n";
+MA_ec405b46 += "<"+"/noscript><"+"div id=\'beacon_ebf259f455\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://vsc.send.microad.jp/delivery/lg.php?bannerid=37230&amp;campaignid=6911&amp;zoneid=11151&amp;cb=ebf259f455&amp;t=1365765243.0797&amp;snr=1\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
+document.write(MA_ec405b46);

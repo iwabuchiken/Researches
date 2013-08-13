@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!-- saved from url=(0103)http://cdn.api.b.hatena.ne.jp/entry/button/?url=http%3A%2F%2Fwww.cyzo.com%2F2012%2F11%2Fpost_11881.html -->
+<html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="utf-8">
+  <title>はてなブックマークボタン</title>
+  <link rel="stylesheet" href="reset.css" type="text/css" media="all">
+  <link rel="stylesheet" href="entry-button.css" type="text/css" media="all">
+  <script>
+    function clickHandler() {
+        var match = window.name.match(/^(\w+)\|((https?:\/\/[^\/?#]+)[^#]*)/);
+        if (!match) return;
+        if (window.postMessage) {
+            window.parent.postMessage('HBMessage@{"type":"click","data":null}', match[3]);
+        } else {
+            var url = match[2] + '#HBMessage-' + match[1] + '-click/null';
+            try {
+                window.parent.location.replace(url);
+            } catch (ex) {
+                window.parent.location.href = url;
+            }
+        }
+    }
+  </script>
+  </head><body onkeypress="if (event.keyCode === 13) { clickHandler(); return false; }">
+    <a href="http://b.hatena.ne.jp/entry/www.cyzo.com/2012/11/post_11881.html" class="button-container button-counter" target="_top" title="このエントリーをはてなブックマークに追加 (2 users)" onclick="if ((event.which || event.button) &lt;= 1) { clickHandler(); return false; }">
+      <img class="button-image" src="button-counter.gif" alt="B!">
+      <span class="counter-container">
+        <span class="counter">2</span>
+      </span>
+    </a>
+  
+
+</body></html>

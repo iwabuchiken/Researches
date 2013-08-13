@@ -1,0 +1,29 @@
+OX4670888273({"ads":
+ {
+  "version": 1,
+  "count": 1,
+  "ad": [
+        {
+         "adunitid":395398,
+         "adid":0,
+         "type":"html",
+         "html":"<div id='beacon_75654708' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://ox-d.openx.jp/w/1.0/ri?ts=1fHJhaWQ9MTViNzQzMjQtNDIwNy00NmM5LWI2YmItNWZlNTFjM2MwOTAyfHNpZD04Mjk2MnxhdWlkPTM5NTM5OHxyaWQ9ZjkwYzJmMmQtOGY5NS00NGI1LWFjNmYtMGRlNjc3MGQ1YTRkfHBjPUpQWXxydD0xMzY1NzY2MjkzfHB1Yj0xMDgzMzc&cb=75654708'/></div><!-- BEGIN STANDARD TAG - 300 x 250 - \u65e5\u520a\u30b5\u30a4\u30be\u30fc: Run-of-site - DO NOT MODIFY -->\n<SCRIPT TYPE=\"text/javascript\" SRC=\"http://ad.yieldmanager.com/st?ad_type=ad&ad_size=300x250&section=1828961&pub_url=${PUB_URL}\"></SCRIPT>\n<!-- END TAG -->\n",
+         "is_fallback":1,
+         "creative":[
+           {
+             "width":"300",
+             "height":"250",
+             "target":"_blank",
+             "mime":"text/html",
+             "media": "<!-- BEGIN STANDARD TAG - 300 x 250 - \u65e5\u520a\u30b5\u30a4\u30be\u30fc: Run-of-site - DO NOT MODIFY -->\n<SCRIPT TYPE=\"text/javascript\" SRC=\"http://ad.yieldmanager.com/st?ad_type=ad&ad_size=300x250&section=1828961&pub_url=${PUB_URL}\"></SCRIPT>\n<!-- END TAG -->",
+             "tracking":{
+               "impression":"http://ox-d.openx.jp/w/1.0/ri?ts=1fHJhaWQ9MTViNzQzMjQtNDIwNy00NmM5LWI2YmItNWZlNTFjM2MwOTAyfHNpZD04Mjk2MnxhdWlkPTM5NTM5OHxyaWQ9ZjkwYzJmMmQtOGY5NS00NGI1LWFjNmYtMGRlNjc3MGQ1YTRkfHBjPUpQWXxydD0xMzY1NzY2MjkzfHB1Yj0xMDgzMzc&cb=75654708",
+               "inview":"http://ox-d.openx.jp/w/1.0/rvi?ts=1fHJhaWQ9MTViNzQzMjQtNDIwNy00NmM5LWI2YmItNWZlNTFjM2MwOTAyfHNpZD04Mjk2MnxhdWlkPTM5NTM5OHxyaWQ9ZjkwYzJmMmQtOGY5NS00NGI1LWFjNmYtMGRlNjc3MGQ1YTRkfHBjPUpQWXxydD0xMzY1NzY2MjkzfHB1Yj0xMDgzMzc&cb=75654708",
+               "click":"http://ox-d.openx.jp/w/1.0/rc?ts=1fHJhaWQ9MTViNzQzMjQtNDIwNy00NmM5LWI2YmItNWZlNTFjM2MwOTAyfHNpZD04Mjk2MnxhdWlkPTM5NTM5OHxyaWQ9ZjkwYzJmMmQtOGY5NS00NGI1LWFjNmYtMGRlNjc3MGQ1YTRkfHBjPUpQWXxydD0xMzY1NzY2MjkzfHB1Yj0xMDgzMzc"
+             }
+           }
+         ]
+        }
+  ]
+ }
+});

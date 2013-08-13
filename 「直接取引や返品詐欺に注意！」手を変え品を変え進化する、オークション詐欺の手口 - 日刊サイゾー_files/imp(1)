@@ -1,0 +1,7 @@
+document.write('<a target=\"_blank\" href=\"http://ad.yieldmanager.com/clk?3,eJydTdFqg0AQ.Jq8iezeno1F-nByapWeqSAE81JaNV4korQHl-brewHbvmcYdmd3dhmkCHr20CJtHzl89GwbREjdsQfqOA88iKIInQOMMwSP5ZxE9jxnVuoi5rG44XXpd4NYEYMQ-aqHG7P0uL8Uq5-88-r3UAAX90MunzpZtcuzLkqGIuiU9EeI.8-GQMmGmqkcX.bJtRwro-r0rE6oD3VDbkeqzqmsi9NODpdD9ff55HnamGVDYsNSR2ut335fZ7-dJzcyQOYaoivL.GXeEMMQfW2m8w-PFV40,\"><img border=\"0\" alt=\"\" height=\"250\" width=\"300\" src=\"http://content.yieldmanager.edgesuite.net/atoms/e2/c3/44/11/e2c3441139e40c21ee3d8d3c1dec5440.gif\"></img></a>');
+var rm_data = new Object();
+rm_data.creative_id = 18752737;
+rm_data.offer_type = 65;
+rm_data.entity_id = 757317;
+
+if (window.rm_crex_data) {rm_crex_data.push(18752737);}
